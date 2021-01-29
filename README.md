@@ -14,5 +14,6 @@ Simulated sales data was analyzed to identify the following:
 The raw data and questions were provided by Keith Galli, whose GitHub repository is here - 
 https://github.com/KeithGalli/Pandas-Data-Science-Tasks
 
-The solutions to the questions are my own, except for the following:
+Some more acknowledgements:
 - reading files from a directory (ref. Keith Galli)
+- counting combinations of pairs (ref. Olivier Melançon)
